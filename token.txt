@@ -1,0 +1,36 @@
+endAt IDENTIFIER
+T_assiging_operator
+end_of_line_mark_
+T_assiging_operator
+fiblast IDENTIFIER
+T_assiging_operator
+end_of_line_mark_
+T_assiging_operator
+end_of_line_mark_
+T_while_word
+T_starting_circle_bracket
+T_less/greater Operator
+endBt IDENTIFIER
+T_ending_circle_bracket
+T_starting_curly_bracket
+end_of_line_mark_
+fibnext IDENTIFIER
+T_assiging_operator
+T_plus_operator
+end_of_line_mark_
+T_assiging_operator
+end_of_line_mark_
+fiblast IDENTIFIER
+T_assiging_operator
+end_of_line_mark_
+T_assiging_operator
+T_plus_operator
+1 FLOAT
+end_of_line_mark_
+T_ending_curly_bracket
+end_of_line_mark_
+end_of_line_mark_
+T_print_function
+T_starting_circle_bracket
+T_ending_circle_bracket
+end_of_line_mark_

@@ -1,0 +1,12 @@
+endAt = 7
+startFrom = 0	//olalal
+fiblast = 1
+fibsecondLast = 1
+while(startFrom<endBt) {
+	fibnext = fib_last+fibsecondLast
+	fibsecondLast=fib_last
+	fiblast=fib_next
+	startFrom=startFrom+1
+}
+
+print(fib_last)
